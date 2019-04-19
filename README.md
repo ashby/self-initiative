@@ -1,28 +1,40 @@
 # Self Initiative
 
-## Attributes
-- defect
-- experience
-- hope
-- obsession
-- resentment
-- strength
+|Attributes   |Higher Power   |Self Initiative   |Native   |Web   |
+|---|---|---|---|---|
+|defect   |✅   |   |   |   |
+|experience   |✅   |   |   |   |
+|hope   | ✅  |   |   |   |
+|obsession   |✅  |   |   |   |
+|resentment   |✅   |   |   |   |
+|strength   |✅   |   |   |   |
 
-## Sub-attributes
-- acceptance
-- anger
-- armor
-- boundary
-- compassion
-- courage
-- fear
-- gratitude
-- pride
-- salvation
-- self-pity
-- suffering
-- toxicity
-- trauma
-- vulnerability
+|Sub-attributes   |Higher Power   |Self Initiative   |Native   |Web   |
+|---|---|---|---|---|
+|acceptance  |✅   |   |   |   |
+|anger   |✅   |   |   |   |
+|armor   |✅   |   |   |   |
+|boundary   |✅   |   |   |   |
+|compassion   |✅   |   |   |   |
+|courage   |✅   |   |   |   |
+|fear   |✅   |   |   |   |
+|gratitude   |✅   |   |   |   |
+|pride   |✅   |   |   |   |
+|salvation   |✅   |   |   |   |
+|self-pity   |✅   |   |   |   |
+|suffering   |✅   |   |   |   |
+|toxicity   |✅   |   |   |   |
+|trauma   |✅   |   |   |   |
+|vulnerability   |✅   |   |   |   |
 
-## Cast
+|Cast   |Self Initiative   |Native   |Web   |
+|---|---|---|---|
+|Congregant   |   |   |   |
+|Guardian   |   |   |   |
+|Paladin   |   |   |   |
+|Seeker   |   |   |   |
+|Self   |   |   |   |
+|Summoner   |   |   |   |
+|Victim   |   |   |   |
+|Volunteer   |   |   |   |
+
